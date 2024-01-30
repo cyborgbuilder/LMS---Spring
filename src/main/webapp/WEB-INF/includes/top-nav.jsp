@@ -62,9 +62,9 @@
                         aria-expanded="false"
                 >
                     <img
-                            src="https://mdbcdn.b-cdn.net/img/new/avatars/2.webp"
+                            src="https://w7.pngwing.com/pngs/340/946/png-transparent-avatar-user-computer-icons-software-developer-avatar-child-face-heroes-thumbnail.png"
                             class="rounded-circle"
-                            height="25"
+                            height="30"
                             alt="Black and White Portrait of a Man"
                             loading="lazy"
                     />

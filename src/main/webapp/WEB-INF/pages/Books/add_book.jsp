@@ -18,7 +18,7 @@
             <div class="row p-4">
                 <div class="col-6 d-flex align-items-center d-none d-md-block">
                     <div class="justify-content-center text-center" >
-                        <img src="<c:url value="/resources/img/Library-bro.png" />" width="80%" alt="add book" class="img-fluid "/>
+                        <img src="<c:url value="/resources/img/book.png" />" width="60%" alt="add book" class="img-fluid "/>
                     </div>
                 </div>
                 <div class="col-12 col-md-6">
